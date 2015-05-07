@@ -1,0 +1,86 @@
+* -----------------------------------------------------------------
+*                    SOLUTION REPORT                               
+* 
+* LINDO API Version 6.0.1.406 built on Mar 19 2010 02:23:32
+* Barrier Solver Version 5.0.0.140, Nonlinear Solver Version 3.14T
+* Platform Linux x64
+*
+* Copyright (c) 2009 by LINDO Systems, Inc. Licensed material,
+* all rights reserved. Copying except as authorized in license 
+* agreement is prohibited.
+* -----------------------------------------------------------------
+* 
+*  PROBLEM NAME
+* 
+*   MINLP GLOBAL OPTIMUM FOUND
+* 
+*   ITERATIONS BY SIMPLEX METHOD    =       18354
+*   ITERATIONS BY BARRIER METHOD    =           0
+*   ITERATIONS BY NLP METHOD        =           0
+*   TOTAL BRANCHES CREATED          =         206
+*   TOTAL NUMBER OF LPs SOLVED      =         610
+*   NUMBER OF CONTRA CUTS           =           4
+*   NUMBER OF OBJECTIVE CUTS        =           0
+*   NUMBER OF GUB CUTS              =           0
+*   NUMBER OF LIFTING CUTS          =           0
+*   NUMBER OF FLOW COVER CUTS       =          39
+*   NUMBER OF GOMORY CUTS           =         296
+*   NUMBER OF GCD CUTS              =           0
+*   NUMBER OF CLIQUE CUTS           =           0
+*   NUMBER OF DISAGGREGATION CUTS   =           1
+*   NUMBER OF PLANT LOCATION CUTS   =           0
+*   NUMBER OF LATTICE CUTS          =           0
+*   NUMBER OF COEFF. REDUCTION CUTS =           4
+*   TOTAL NUMBER OF CUTS GENERATED  =         344
+* 
+*   OBJECTIVE FUNCTION VALUE
+* 
+*    1)                 0.126339998
+* 
+* VARIABLES                     VALUE             REDUCED COST
+
+  C0000000                 1.000000000              0.000000000
+  C0000001                 0.000000000              0.000000000
+  C0000002                 0.000000000              0.000000000
+  C0000003                -0.000000000              0.000000000
+  C0000004                 0.000000000              0.000000000
+  C0000005                 1.000000000              0.000000000
+  C0000006                -0.000000000              0.000000000
+  C0000007                -0.000000000              0.000000000
+  C0000008                 1.000000000              0.000000000
+  C0000009                 0.000000000              0.000000000
+  C0000010                 1.000000000              0.000000000
+  C0000011                 0.000000000              0.000000000
+  C0000012                 1.000000000              0.000000000
+  C0000013                 0.000000000              0.000000000
+  C0000014                 0.000000000              0.000000000
+  C0000015                 1.000000000              0.000000000
+  C0000016                -0.000000000              0.000000000
+  C0000017                -0.000000000              0.000000000
+  C0000018                 0.000000000              0.000000000
+  C0000019                 0.000000000              0.000000000
+  C0000020                 1.000000000              0.000000000
+  C0000021                 0.000000000              0.000000000
+  C0000022                 1.000000000              0.000000000
+  C0000023                 0.000000000              0.000000000
+  C0000024                 0.000000000              0.000000000
+  C0000025                 1.000000000              0.000000000
+  C0000026                -0.000000000              0.000000000
+  C0000027                 1.000000000              0.000000000
+  C0000028                -0.000000000              0.000000000
+  C0000029                 0.000000000              0.000000000
+
+* CONSTRAINTS        SLACK OR SURPLUS              DUAL PRICES
+
+  R2                       0.000000000              0.000000000
+  R3                       0.000000000              0.000000000
+  R4                       0.000000000              0.000000000
+  R5                       0.000000000              0.000000000
+  R6                       0.000000000              0.000000000
+  R7                       0.000000000              0.000000000
+  R8                       0.000000000              0.000000000
+  R9                       0.000000000              0.000000000
+  R10                      0.000000000              0.000000000
+  R11                      0.000000000              0.000000000
+
+* END OF REPORT

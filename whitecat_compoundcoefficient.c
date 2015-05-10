@@ -78,7 +78,7 @@ static void CALLTYPE print_line_log(pLSmodel pModel, char *line, void *userdata)
 int main()
 	{
 	clock_t start = clock();//start recording Elapsed time of running this program
-	int n = 16, c = 4;
+	int n = 5, c = 2;
 	APIERRORSETUP;
 	pLSenv pEnv;
 	pLSmodel pModel;
